@@ -13,5 +13,5 @@
 * [Стакан](order-book.md)
 * [Выставление заявок](order-submit.md)
 * [Корзина заявок](orders-basket.md)
-* [scalper-order-book](scalper-order-book.md)
+* [Скальперский стакан](scalper-order-book.md)
 * [Технический анализ](tech-chart.md)
