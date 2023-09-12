@@ -15,5 +15,5 @@
 * [Корзина заявок](orders-basket.md)
 * [Скальперский стакан](scalper-order-book.md)
 * [Технический анализ](tech-chart.md)
-* [Карта рынка](karta-rynka.md)
-* [Опционная доска](opcionnaya-doska.md)
+* [Карта рынка](treemap.md)
+* [Опционная доска](option-board.md)
