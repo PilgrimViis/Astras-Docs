@@ -16,4 +16,4 @@
 * [Скальперский стакан](scalper-order-book.md)
 * [Технический анализ](tech-chart.md)
 * [Карта рынка](karta-rynka.md)
-* [option-board](option-board.md)
+* [Опционная доска](opcionnaya-doska.md)
