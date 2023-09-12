@@ -15,3 +15,4 @@
 * [Корзина заявок](orders-basket.md)
 * [Скальперский стакан](scalper-order-book.md)
 * [Технический анализ](tech-chart.md)
+* [treemap](treemap.md)
