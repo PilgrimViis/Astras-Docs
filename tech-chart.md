@@ -22,9 +22,7 @@
 
 При задании синтетического инструмента, вам необходимо в поиске набрать полное наименование инструмента в формате:
 
-{% hint style="info" %}
-**\[Exchange]:\[Ticker]:\[Board] Например MOEX:SBER:SMAL**
-{% endhint %}
+> **\[Exchange]:\[Ticker]:\[Board] Например MOEX:SBER:SMAL**
 
 На скриншоте ниже вы можете посмотреть на разницу цены SBER и SBERP.
 
@@ -32,6 +30,4 @@
 
 Вот ещё один пример, когда мы смотрим разницу между фьючерсами.
 
-{% hint style="info" %}
-**MOEX:RTS-12.23:RFUD - MOEX:RTS-9.23:RFUD**
-{% endhint %}
+> **MOEX:RTS-12.23:RFUD - MOEX:RTS-9.23:RFUD**
