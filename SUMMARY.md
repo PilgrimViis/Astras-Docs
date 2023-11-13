@@ -9,7 +9,7 @@
 * [Выбор инструмента](instrument-select.md)
 * [График](light-chart.md)
 * [Выставление заявок](new-order.md)
-* [Виджет для просмотра новостей](news.md)
+* [Новости](news.md)
 * [Стакан](order-book.md)
 * [Выставление заявок](order-submit.md)
 * [Корзина заявок](orders-basket.md)
