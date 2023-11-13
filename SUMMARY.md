@@ -17,3 +17,4 @@
 * [Технический анализ](tech-chart.md)
 * [Карта рынка](treemap.md)
 * [Опционная доска](option-board.md)
+* [Корреляция инструментов](instruments-correlation.md)
